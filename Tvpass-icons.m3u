@@ -51,7 +51,7 @@ https://tvpass.org/live/ComedyCentralEast/hd
 https://tvpass.org/live/DiscoveryChannelEast/sd
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel (US) Eastern Feed HD
 https://tvpass.org/live/DiscoveryChannelEast/hd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/e-entertainment-television-us.png",E! Entertainment USA Eastern Feed SD
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live" tvg-logo="https://commons.wikimedia.org/wiki/File:E!_Logo_2012.svg",E! Entertainment USA Eastern Feed SD
 https://tvpass.org/live/EEast/sd
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-5-wnyw-us.png", NY SD" group-title="Live",FOX (WNYW) New York, NY SD
 https://tvpass.org/live/WNYWDT1/sd
@@ -222,3 +222,5 @@ https://tvpass.org/live/WeTVEast/hd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/pix-11-wpix-us.png",WPIX New York (SUPERSTATION) HD
 https://tvpass.org/live/WPIX/hd
+#EXTINF:-1 tvg-id="usa-network" tvg-name="USA Network" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png" ,USA Network
+https://tvpass.org/live/USANetworkEast/sd
