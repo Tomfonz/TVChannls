@@ -65,9 +65,9 @@ https://tvpass.org/live/FreeformEast/hd
 https://tvpass.org/live/FuseEast/sd
 #EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fuse-us.png",FUSE TV Eastern feed HD
 https://tvpass.org/live/FuseEast/hd
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-movie-channel-us.png",FX Movie Channel SD
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel SD
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-movie-channel-us.png",FX Movie Channel HD
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png",FX Movie Channel HD
 https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast SD" group-title="Live" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFX_%2528TV_channel%2529&psig=AOvVaw3f5cpgwrsusCtOL6WkvaQl&ust=1760285295086000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjby_DDnJADFQAAAAAdAAAAABAE",FX Networks East Coast SD
 https://tvpass.org/live/FXEast/sd
