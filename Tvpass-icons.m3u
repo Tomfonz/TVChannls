@@ -51,7 +51,7 @@ https://tvpass.org/live/ComedyCentralEast/hd
 https://tvpass.org/live/DiscoveryChannelEast/sd
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png",Discovery Channel (US) Eastern Feed HD
 https://tvpass.org/live/DiscoveryChannelEast/hd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live" tvg-logo="https://commons.wikimedia.org/wiki/File:E!_Logo_2012.svg",E! Entertainment USA Eastern Feed SD
+#EXTINF:-1 tvg-id="e-entertainment" tvg-name="E! Entertainment" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png",E! Entertainment USA SD
 https://tvpass.org/live/EEast/sd
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-5-wnyw-us.png", NY SD" group-title="Live",FOX (WNYW) New York, NY SD
 https://tvpass.org/live/WNYWDT1/sd
@@ -81,29 +81,25 @@ https://tvpass.org/live/FXXEast/hd
 https://tvpass.org/live/HallmarkChannelEast/sd
 #EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hallmark-channel-us.png",Hallmark Eastern Feed HD
 https://tvpass.org/live/HallmarkChannelEast/hd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png",HBO Eastern Feed SD
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png",HBO Eastern Feed SD
 https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png",HBO Eastern Feed HD
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png",HBO Eastern Feed HD
 https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-2-us.png",HBO 2 Eastern Feed SD
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 " group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png",HBO 2 Eastern Feed SD
 https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-2-us.png",HBO 2 Eastern Feed HD
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 HD " group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png",HBO 2 Eastern Feed HD
 https://tvpass.org/live/HBO2East/hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png",HBO Comedy HD East SD
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy " group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png",HBO Comedy HD East SD
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png",HBO Comedy HD East HD
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-comedy-us.png",HBO Comedy HD East HD
 https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-family-us.png",HBO Family Eastern Feed SD
-https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-family-us.png",HBO Family Eastern Feed HD
-https://tvpass.org/live/HBOFamilyEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-signature-us.png",HBO Signature (HBO 3) Eastern SD
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature " group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-signature-us.png",HBO Signature (HBO 3) Eastern SD
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-signature-us.png",HBO Signature (HBO 3) Eastern HD
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-signature-us.png",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-zone-us.png",HBO Zone HD East SD
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-films-us.png",HBO Zone HD 
 https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-zone-us.png",HBO Zone HD East HD
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD" group-title="Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-films-us.png",HBO Zone HD 
 https://tvpass.org/live/HBOZoneEast/hd
 #EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US SD" group-title="Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png",Independent Film Channel US SD
 https://tvpass.org/live/IFCEast/sd
